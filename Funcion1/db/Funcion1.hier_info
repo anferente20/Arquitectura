@@ -1,0 +1,9 @@
+|Funcion1
+X => F~5.IN1
+X => F~0.IN0
+Y => F~4.IN0
+Y => F~0.IN1
+Z => F~1.IN0
+F <= F~6.DB_MAX_OUTPUT_PORT_TYPE
+
+
